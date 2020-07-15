@@ -20,11 +20,6 @@ name = "Faq"
 url = "faq"
 weight = 1
 
-[[menu.main]]
-name = "contact"
-url = "contact"
-weight = 2
-
 # Dropdown menu
 [[menu.main]]
 weight = 3
@@ -33,15 +28,9 @@ hasChildren = true
 
   [[menu.main]]
   parent = "docs"
-  name = "Installation"
+  name = "Getting Started"
   url = "installation"
   weight = 1
-
-  [[menu.main]]
-  parent = "docs"
-  name = "Billing and Pricing"
-  url = "billing-pricing"
-  weight = 2
 
   [[menu.main]]
   parent = "docs"
