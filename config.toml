@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 # provide your domain here
-baseURL = "https://examplesite.com/"
+baseURL = "https://docs.nightingaletrading.com/"
 # theme
 theme = "dot"
 # site title
