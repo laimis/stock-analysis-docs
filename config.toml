@@ -4,7 +4,7 @@ baseURL = "https://docs.nightingaletrading.com/"
 # theme
 theme = "dot"
 # site title
-title = "Dot"
+title = "Nightingale Trading Help & Documentation"
 # disable language
 disableLanguages = []
 # google analytics
@@ -75,20 +75,9 @@ contact_form_action = "#" # contact form works with : https://formspree.io
 
 ############################## social links ##############################
 [[params.social]]
-icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
 icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-  
-[[params.social]]
-icon = "ti-github" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-  
-[[params.social]]
-icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+link = "https://twitter.com/NightingaleTra3"
+
 
 ################################ English Language ######################
 [Languages.en]
@@ -114,31 +103,4 @@ content = "Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor.
 [Languages.en.params.cta.button]
 enable = true
 label = "contact us"
-link = "contact"
-
-
-################################### Franch Language ######################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-weight = 2
-home = "Accueil"
-copyright = "Les documents Hugo sont sous copyright © [gethugothemes](https://gethugothemes.com/) 2020."
-
-# banner
-[Languages.fr.params.banner]
-title = "Comment pouvons nous aider?"
-subtitle = "Trouvez rapidement des conseils et des réponses auprès de notre équipe d'assistance ou contactez-nous."
-bg_image = "images/banner.jpg"
-placeholder = "Avoir une question? Il suffit de demander ici ou de saisir les termes"
-
-# call to action
-[Languages.fr.params.cta]
-enable = true
-title = "Vous n'avez pas trouvé de réponse à votre question?"
-content = "Contactez-nous pour plus de détails sur les services supplémentaires et la tarification du travail personnalisé"
-# call to action button
-[Languages.fr.params.cta.button]
-enable = true
-label = "Contactez nous"
 link = "contact"
