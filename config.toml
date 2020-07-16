@@ -4,7 +4,7 @@ baseURL = "https://docs.nightingaletrading.com/"
 # theme
 theme = "dot"
 # site title
-title = "Nightingale Trading Help & Documentation"
+title = "Nightingale Trading"
 # disable language
 disableLanguages = []
 # google analytics
@@ -16,9 +16,14 @@ unsafe= true
 
 ################################# navigation ################################
 [[menu.main]]
+name = "Login"
+url = "https://nightingaletrading.com"
+weight = 4
+
+[[menu.main]]
 name = "Faq"
 url = "faq"
-weight = 1
+weight = 2
 
 # Dropdown menu
 [[menu.main]]
