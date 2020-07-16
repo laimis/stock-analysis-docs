@@ -28,14 +28,20 @@ hasChildren = true
 
   [[menu.main]]
   parent = "docs"
-  name = "Getting Started"
+  name = "Starter Guide"
   url = "installation"
   weight = 1
 
   [[menu.main]]
   parent = "docs"
-  name = "Features"
-  url = "features"
+  name = "Options"
+  url = "options"
+  weight = 3
+
+  [[menu.main]]
+  parent = "docs"
+  name = "Stocks"
+  url = "stocks"
   weight = 3
 
 
