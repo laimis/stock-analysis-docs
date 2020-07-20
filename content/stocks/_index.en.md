@@ -5,3 +5,5 @@ icon: "ti-package"
 description: "Rundown of how to track your stock purchases"
 type : "docs"
 ---
+
+Posts on how to track shares are coming soon

@@ -34,7 +34,7 @@ hasChildren = true
   [[menu.main]]
   parent = "docs"
   name = "Starter Guide"
-  url = "installation"
+  url = "begin"
   weight = 1
 
   [[menu.main]]
@@ -89,7 +89,7 @@ copyright = ""
 
 # banner
 [Languages.en.params.banner]
-title = "Support Center & Knowledge base"
+title = "Help Center"
 subtitle = ""
 bg_image = "images/banner.jpg"
 placeholder = "Have a question? Just ask here or enter terms"
