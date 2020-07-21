@@ -62,6 +62,15 @@ It's too easy to miss a stock move, use the alerts to keep yourself informed.
 
 ## Other ways that Nightingale Trading can help
 
+### Weekly Emails
+
+Every week you will receive a summary of your equities, ticker prices and if applicable, approaching earning dates:
+
+![review](review.png "image")
+
+If you want to skip checking your account daily, you can use weekly emails for a refresher.
+
+
 ### Journaling
 
 By recording your transactions you are already ahead of many of the traders.

@@ -1,12 +1,5 @@
 Docs site:
-- add who is NGTD for
-- add how to get the most out of NGTD
 - details on tracking stocks
 - details on tracking options
-- options performance grid
 - details on Alerts
 - weekly review emails
-- review screen
-- transactions screen
-- overall reporting: transactions + performance grids
-- faq questions
