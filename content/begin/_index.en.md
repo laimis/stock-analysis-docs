@@ -16,7 +16,9 @@ What's your average rate of return across all trades? How bad are your drawdowns
 
 To get answers to these questions requires work. Nightingale Trading eliminates as much of it as possible. Using its insights you can adjust your strategy for better returns.
 
-### Step 1: track share transactions
+There are three key areas you should use to take the full advantage of the platform.
+
+### 1. Track share transactions
 
 Use Nightingale Trading to record your share purchases and sells. We keep track of all the transactions and over time you can see your performance metrics. How many of your trades result in a profit, how large are you gains, what is your average rate of return, and many other questions will get answered.
 
@@ -29,7 +31,7 @@ As well as your overall performance for your closed positions:
 ![share performance](shareperformance.png "image")
 
 
-### Step 2: track option transactions
+### 2. Track option transactions
 
 Nightingale Trading really shines when you use it to track your option trades.
 
@@ -50,7 +52,7 @@ After you start closing the trades, we will keep track of your winning rate, **p
 This is the insight that you need to understand how you are performing.
 
 
-### Step 3: Stock Alerts
+### 3. Stock Alerts
 
 Awareness of the price movements is key for entering or exiting the trades at the right time. The problem is that we don't have the time available to us to watch the tickers all day.
 
