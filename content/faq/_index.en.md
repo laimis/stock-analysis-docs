@@ -4,19 +4,21 @@ draft: false
 ---
 
 {{< faq "What's the main purpose of Nightingale Trading?" >}}
-It helps you easily track your share and option transactions while providing automated insights into your trading performance.
+Nightingale Trading helps you track your stock trading transactions while providing automated insights into your trading performance.
 
 It is meant to replace the manual trade journals one might do in an excel spreadsheet or on a simple piece of paper.
 
 Trading journal can help you understand your behavior and performance better than a simple intuition. But keeping one is a hassle and we hope Nightingale Trading can make that process easier.
+
+If you trade stocks as a way to make side income, this site is perfect for you. Just enough functionality for tracking and education without any other distractions.
 {{</ faq >}}
 
 {{< faq "Can I buy/sell shares or options using the site?" >}}
-No, you use your broker site to do your transactions and then can come to [link](nightingaletrading.com) to record them.
+No. You use your brokerage site to perform the actual trades and then you can record them on Nightingale Trading site for tracking.
 {{</ faq >}}
 
-{{< faq "Does it support option trades?" >}}
-Yes! Currently you can record buy or sell transactions. It's perfect for someone who sells PUTS or CALLs. If you are doing a wheel strategy, the site is perfect for you.
+{{< faq "Does it support tracking option trades?" >}}
+Yes! Currently you can record buy or sell transactions. It's perfect for someone who sells PUTS or CALLs. If you are doing a wheel strategy, the site is perfect for you since you can keep track of your share positions as well as the options.
 
 Tracking multi-legged options can be more complicated as each leg needs to be entered and closed individually.
 {{</ faq >}}
