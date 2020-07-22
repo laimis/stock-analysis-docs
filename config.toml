@@ -39,14 +39,14 @@ hasChildren = true
 
   [[menu.main]]
   parent = "docs"
-  name = "Options"
-  url = "options"
-  weight = 3
+  name = "Stocks"
+  url = "stocks"
+  weight = 2
 
   [[menu.main]]
   parent = "docs"
-  name = "Stocks"
-  url = "stocks"
+  name = "Options"
+  url = "options"
   weight = 3
 
 
