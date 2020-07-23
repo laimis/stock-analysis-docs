@@ -4,6 +4,7 @@ date: 2018-12-29T11:02:05+06:00
 icon: "ti-star"
 description: "Get the most out of Nightingale Trading"
 type : "docs"
+weight: 1
 ---
 
 ## Become a better trader with Nightingale Trading!

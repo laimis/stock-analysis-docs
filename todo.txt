@@ -1,4 +1,3 @@
 Docs site:
-- details on tracking stocks
 - details on Alerts
 - weekly review emails

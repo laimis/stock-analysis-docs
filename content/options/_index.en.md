@@ -1,9 +1,10 @@
 ---
 title: "Options"
 date: 2018-12-28T11:02:05+06:00
-icon: "ti-package"
+icon: "ti-reload"
 description: "How to track options purchases"
 type : "docs"
+weight: 3
 ---
 
 ## How to track options
