@@ -6,4 +6,8 @@ description: "Rundown of how to track your stock purchases"
 type : "docs"
 ---
 
-Posts on how to track shares are coming soon
+## How to track stock purchases
+
+Tracking shares is as simple as recording the number of shares you buy and then the number of shares you sell.
+
+Nightingale Trading will keep track of your overall position status, how much your positions have gained, and performance metrics for positions you close.

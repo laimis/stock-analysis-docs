@@ -1,5 +1,4 @@
 Docs site:
 - details on tracking stocks
-- details on tracking options
 - details on Alerts
 - weekly review emails
