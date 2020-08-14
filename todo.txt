@@ -1,3 +1,0 @@
-Docs site:
-- details on Alerts
-- weekly review emails
